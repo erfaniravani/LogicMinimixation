@@ -1,1 +1,1 @@
-# LogicMinimixation
+# LogicMinimization
